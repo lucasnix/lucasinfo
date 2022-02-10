@@ -1,4 +1,4 @@
-### Hi, I'm Lucas a Software Engineer and a 3d Developer! 👋🏻
+### Hi, I'm Lucas a Software Engineer and a 3D Developer! 👋🏻
 
 - 🔭 I’m currently working on Atlas Technol.
 - 🌱 I’m currently learning JavaScript, TypeScript and Node.js for backend purpose.
