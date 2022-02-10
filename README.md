@@ -29,5 +29,6 @@
   <a href="https://www.linkedin.com/in/lucas-ramos-8187b433/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![snake-animation](https://user-images.githubusercontent.com/41988297/153349814-4c02c20a-1e86-4130-8657-77becc9ba649.svg)
- 
+ ![github-user-contribution](https://user-images.githubusercontent.com/41988297/153352182-bfe5aabe-c429-4367-9fd1-7e904ba7e140.svg)
+
 </div>
