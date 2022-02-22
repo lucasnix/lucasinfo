@@ -1,7 +1,7 @@
 ### Hi, I'm Lucas a Software Engineer and a UI and UX Developer! 👋🏻
 
 - 🔭 I’m currently working on Talking About Korea.
-- 🌱 I’m currently learning JavaScript, TypeScript and Node.js for back-end purpose but I really enjoy front-end.
+- 🌱 I’m currently learning JavaScript, TypeScript and Node.js for back-end purpose but I really enjoy front-end and behavioral analytics.
 - 👯 I’m looking to collaborate on projects that can help people in some way.
 - 💬 Ask me about anything!
 - 📫 How to reach me: lucasniix@gmail.com
