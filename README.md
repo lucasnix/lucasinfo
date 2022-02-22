@@ -1,4 +1,4 @@
-### Hi, I'm Lucas a Software Engineer and a 3D Developer! 👋🏻
+### Hi, I'm Lucas a Software Engineer and a UI and UX Developer! 👋🏻
 
 - 🔭 I’m currently working on Talking About Korea.
 - 🌱 I’m currently learning JavaScript, TypeScript and Node.js for back-end purpose but I really enjoy front-end.
@@ -19,6 +19,14 @@
   <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="lucas-wp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="lucas-woo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg">
+  <img align="center" alt="lucas-IL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">
+  <img align="center" alt="lucas-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+  <img align="center" alt="lucas-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="lucas-hotjar" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fhotjar-3521492&psig=AOvVaw0SDbfLCK2Ewi7-8IyAgoqP&ust=1645652103300000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDXmfyhlPYCFQAAAAAdAAAAABAD">
+  
+  
 </div>
   
   ##
