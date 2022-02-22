@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas a Software Engineer and a 3D Developer! 👋🏻
 
-- 🔭 I’m currently working on Atlas Technol.
+- 🔭 I’m currently working on Talking About Korea.
 - 🌱 I’m currently learning JavaScript, TypeScript and Node.js for back-end purpose but I really enjoy front-end.
 - 👯 I’m looking to collaborate on projects that can help people in some way.
 - 💬 Ask me about anything!
