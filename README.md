@@ -7,10 +7,10 @@
 - 📫 How to reach me: lucasniix@gmail.com
 - ⚡ Fun fact: I`m a FPS player.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/lucasnix">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucasnix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnix&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucasnix&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnix&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -36,6 +36,6 @@
   <a href = "mailto:lucasniix@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-ramos-8187b433/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake-animation](https://github.com/lucasnix/lucasnix/blob/main/das.svg)
+  ![snake-animation](https://github.com/lucasnix/lucasnix/blob/output/github-contribution-grid-snake.svg)
 
 </div>
